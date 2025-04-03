@@ -1,0 +1,39 @@
+# Galactic Portfolio - Mike Alwang'a
+
+## 🌌 Mission Overview
+Welcome to my Galactic Portfolio, a submission for the PLP Academy Portfolio Quest. I’m Mike Alwang’a, a software engineering student at Kirinyaga University and this site is my hyperspace beacon. Crafted with HTML and CSS, it showcases my skills, projects, and passions with a futuristic neon-charged design.
+---
+
+## 🚀 Portfolio Sections
+- **Tech Matrix**: A list of my coding skills Flask, HTML, Python, CSS, and TypeScript presented as glowing cyber-nodes.
+- **Core Directive**: My mission statement as a software engineer, using code to make to make awesome systems
+- **Data Logs**: My education, pursuing Software Engineering at Kirinyaga University (expected October 2026) with a link to my  Resume on Canva.
+- **System Drivers**: My tech passions scalable systems, dev tools, and blockchain/Web3—styled with a sci-fi edge.
+- **Galactic Operations**: My finished projects:
+  - Chrono Leave (Leave Management System)
+  - Nexus Recruitment (Nextgen)
+  - Transatron Fleet (Vehicle Hiring System)
+  - Each has a GitHub link, styled like mission reports.
+- **Transmit Signal**: A contact form  to reach me.
+
+---
+
+## 🛠️ Tools I Used
+- **HTML5**: Builds the basic structure of my site.
+- **CSS3**: Makes it look good and work on all screens:
+  - **Reset**: Sets everything to zero (`margin: 0; padding: 0`) and keeps sizes neat (`box-sizing: border-box`).
+  - **Media Query**: Shrinks the title and padding on small screens (600px or less).
+  - **Google Fonts**: Uses Orbitron for a sci-fi look.
+
+---
+
+## 🎨 How It Looks
+- **Cool Style**: Dark blue background (`#0d1b2a`) with bright cyan (`#00d4ff`) borders and text.
+- **Fits Any Screen**: Stays centered (max 900px wide) and adjusts for phones.
+
+
+---
+
+## 🌠 How to See It
+- **Live Link**: [Insert your GitHub Pages URL, e.g., `https://mosii721.github.io/portfolio`]
+.
